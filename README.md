@@ -20,10 +20,10 @@ Joanna Broniarek, Alice Shirinà, Daniele Sanna.
 
 2. **Creating_Files.ipynb** - In this notebook we create and save the following files "vocabulary.txt", "inv_indx.txt", "inv_indx_tfidf.txt" according to the data. 
 
-3. **GeoMap.ipynb**  - There is an implementation of the Geomap for searching documents according to their locations. Example of the map is in the file **Visualization.html**
+3. **GeoMap.ipynb**  - There is an implementation of the Geomap for searching documents according to their locations.
 
 ## Scripts
  1. functions.py - external file with definitions of functions used in the Homework_3 notebook.
  
  ## Technology
- + Python 3
+ + Python 3.6.4
