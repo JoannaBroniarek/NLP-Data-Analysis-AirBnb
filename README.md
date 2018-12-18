@@ -5,7 +5,7 @@ Joanna Broniarek, Alice Shirinà, Daniele Sanna.
 <img src="https://hd.tudocdn.net/731085?w=646&h=284">
 </p>
 
-**The homework consists in analyzing the text of Airbnb property listings and building two different Search Engines that, given as input a query, return the houses that match the query.**
+**The project consists in analyzing the text of Airbnb property listings and building two different Search Engines that, given as input a query, return the houses that match the query.**
 
 ## Data Source
 * Airbnb_Texas_Rentals.csv
@@ -26,4 +26,4 @@ Joanna Broniarek, Alice Shirinà, Daniele Sanna.
  1. functions.py - external file with definitions of functions used in the Homework_3 notebook.
  
  ## Technology
- + Python3
+ + Python 3
